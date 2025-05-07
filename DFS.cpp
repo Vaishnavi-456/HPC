@@ -63,10 +63,11 @@ int main() {
 
 /*output
 Enter no. of Node,no. of Edges and Starting Node of graph:
-4 3 0
+5 4 0
 Enter pair of node and edges:
 0 1
 0 2
+1 3
 2 4
-0 2 4 1 
+0 1 3 2 4
 */
