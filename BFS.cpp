@@ -143,3 +143,21 @@ int main(){
 	return 0;
 }
 
+/*
+ enter data=>10
+do you want insert one more node?y
+
+ enter data=>20
+do you want insert one more node?y
+
+ enter data=>30
+do you want insert one more node?y
+
+ enter data=>40
+do you want insert one more node?y
+
+ enter data=>50
+do you want insert one more node?n
+        10      20      30      40      50
+
+*/
